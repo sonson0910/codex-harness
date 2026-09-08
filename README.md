@@ -1,5 +1,7 @@
 # Codex Harness — public core
 
+![Codex Harness public core — document layers illustrating structured evidence](assets/banner.png)
+
 **A test is not a pass just because a command exited successfully.**
 
 A compact evidence-validation library and a risk-based engineering workflow for
